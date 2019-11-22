@@ -13,7 +13,7 @@
     "@cnamts/vue-cli-plugin-proxy": "^2.2.1",
     "core-js": "^2.6.5",
     "inversify": "^5.0.1",
-    "inversify-props": "^1.4.4",
+    "inversify-props": "^1.4.9",
     "reflect-metadata": "^0.1.13",
     "typeface-open-sans": "0.0.54",
     "vee-validate": "^2.2.7",
