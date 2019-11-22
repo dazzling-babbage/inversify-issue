@@ -1,10 +1,10 @@
 import Vue from 'vue'
-import App from './App.vue'
-import { router } from './router'
-import store from './store'
+import VueLogger from 'vuejs-logger'
 import VeeValidate from 'vee-validate'
 import './container'
-import VueLogger from 'vuejs-logger'
+import { router } from './router'
+import store from './store'
+import App from './App.vue'
 import 'typeface-open-sans'
 
 Vue.config.productionTip = false
